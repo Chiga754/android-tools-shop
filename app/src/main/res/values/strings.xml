@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidToolsShop</string>
+
+
+    <string-array name="tools">
+        <item>Дрели</item>
+        <item>Перфораторы</item>
+        <item>Балгарки</item>
+    </string-array>
+
+
+    <string-array name="test">
+        <item>test1</item>
+        <item>test2</item>
+        <item>test3</item>
+        <item>test4</item>
+        <item>test5</item>
+        <item>test6</item>
+        <item>test7</item>
+    </string-array>
+
+</resources>
