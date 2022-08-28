@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">AndroidToolsShop</string>
+    <string name="description_imageView_drill">Логотип дрели</string>
 
 
     <string-array name="tools">
@@ -8,15 +9,11 @@
         <item>Балгарки</item>
     </string-array>
 
+    <string name="drill_interskol_title">Дрель Интерскол</string>
+    <string name="drill_makita_title">Дрель Макита</string>
+    <string name="drill_dewalt_title">Дрель Деволд</string>
 
-    <string-array name="test">
-        <item>test1</item>
-        <item>test2</item>
-        <item>test3</item>
-        <item>test4</item>
-        <item>test5</item>
-        <item>test6</item>
-        <item>test7</item>
-    </string-array>
-
+    <string name="drill_interskol_info">Дрель Интерскол инфо</string>
+    <string name="drill_makita_info">Дрель Макита инфо</string>
+    <string name="drill_dewalt_info">Дрель Деволд инфо</string>
 </resources>
